@@ -2,7 +2,7 @@ package school.cesar.eta.unit;
 
 public class Palindrome {
 
-    public boolean check(String word){
+    public static boolean check(String word){
        int length = word.length();
 
        if(length <= 1){
