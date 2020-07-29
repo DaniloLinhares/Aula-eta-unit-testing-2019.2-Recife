@@ -15,4 +15,5 @@ public class Palindrome {
 
        return check(word.substring(1,length -1));
     }
+
 }
